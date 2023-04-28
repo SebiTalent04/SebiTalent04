@@ -6,4 +6,4 @@ I like to code in Vue.js and Javascript
 
 # Contact
 
-[My contact info](https://sebitalent04.me/#/contact)
+[My contact info](https://sebitalent04.is-a.dev/#/contact)
